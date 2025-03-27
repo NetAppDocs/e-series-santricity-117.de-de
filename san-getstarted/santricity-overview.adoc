@@ -15,8 +15,8 @@ Systeme der E-Series enthalten SANtricity Software für die Storage-Provisionier
 
 Auf dieser Site wird die Verwendung der folgenden SANtricity Management-Schnittstellen beschrieben:
 
-* System Manager: Eine webbasierte Schnittstelle zum Verwalten eines Controllers in einem Storage-Array.
-* Unified Manager – eine webbasierte Schnittstelle zur Anzeige und zum Management aller Storage-Arrays in Ihrem Netzwerk.
+* SANtricity System Manager – eine webbasierte Schnittstelle zur Verwaltung eines Controllers in einem Speicher-Array.
+* SANtricity Unified Manager – eine webbasierte Schnittstelle zur Anzeige und Verwaltung aller Speicher-Arrays in Ihrem Netzwerk.
 
 
 
