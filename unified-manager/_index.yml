@@ -1,5 +1,12 @@
 ---
 indexpage:
+  title: Management mehrerer Arrays mit SANtricity Unified Manager 5,3
+  summary: Mit der Dokumentation der SANtricity Software können Sie Ihr Storage-Array
+    installieren, einrichten und warten.
+  keywords: e-series, santricity, 117, unified, manager, protection, administration,
+    admin, storage, array, manage
+  lead: Mit der Dokumentation der SANtricity Software können Sie Ihr Storage-Array
+    installieren, einrichten und warten.
   tiles:
   - title: Einrichtung
     links:
