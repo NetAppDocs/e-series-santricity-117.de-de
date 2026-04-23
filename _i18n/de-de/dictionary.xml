@@ -195,7 +195,6 @@
   <block id="cede765df61358635d71c56c97dfc628" category="paragraph">Microsoft Internet Explorer (MSIE)</block>
   <block id="6512bd43d9caa6e02c990b0a82652dca" category="paragraph">11</block>
   <block id="24bfb1beabc66d9a6a219a39706480f0" category="paragraph">Der Web Services Proxy muss installiert und für den Browser verfügbar sein.</block>
-  <block id="0ce99b430e0880d9c5b01d46d038d4dd" category="summary">SANtricity Unified Manager 5</block>
   <block id="8f2804311a0084d47f6c63f97e6d6ced" category="summary">Sie können die Passwörter aktualisieren, die für die Anzeige und den Zugriff auf Speicher-Arrays in SANtricity Unified Manager verwendet werden.</block>
   <block id="2aebbeed1009439a37c2d8cc2d3c3b8c" category="doc">Ändern Sie die Passwörter für das Speicherarray</block>
   <block id="3e06700262909cb379674ee849478971" category="list-text">Sie müssen mit einem Benutzerprofil angemeldet sein, das Storage Admin-Berechtigungen enthält.</block>
@@ -575,7 +574,6 @@
   <block id="0977cf4a58da9cc581a6745cfcdc48b5" category="paragraph">Sie können diese Aufgabe ausführen, wenn die ausgewählte SpiegelungsConsistency Group gespiegelte Paare enthält und die Synchronisierung derzeit nicht ausgeführt wird.</block>
   <block id="1cc0a8d9300c269376cbe461f6b4bd12" category="list-text">Klicken Sie auf Menü:Mehr[Unsynchronisierte Datenmenge anzeigen].</block>
   <block id="09b06cd0cdc29a9d4e00776a6acd426b" category="paragraph">Wenn nicht synchronisierte Daten vorhanden sind, spiegeln die Tabellenwerte dies wider. In der Spalte Datenbetrag wird der nicht synchronisierte Datenbetrag in MiB aufgelistet.</block>
-  <block id="e35d3866f0babedb61a0f1ba9102cafd" category="doc">SANtricity System Manager 11.7</block>
   <block id="aaefb742d61584ee44ef3f9214fce358" category="summary">Sie konfigurieren die synchrone Spiegelung unter Verwendung des folgenden Workflows.</block>
   <block id="2ddee1683c1acac08c2053d991bc7740" category="doc">Workflow für synchrones Spiegeln eines Volumes</block>
   <block id="58c920040b6457f13946634f75abb07b" category="list-text">Wählen Sie ein lokales Speicher-Array als Quelle für den Datentransfer aus.</block>
@@ -5662,7 +5660,6 @@ Nach dem Klicken auf *Hinzufügen* werden die Trap-Ziele und die zugehörigen Na
   <block id="329b059dca9192ebf68525b6d3e3be44" category="inline-link-macro">Cache-Einstellungen und Performance</block>
   <block id="9f6081850e27326c653ce13711fd1f40" category="list-text"><block ref="9f6081850e27326c653ce13711fd1f40" category="inline-link-macro-rx"></block></block>
   <block id="590d98531a06e067582f8f395c25ea9d" category="inline-link-macro">Automatische Lastverteilung</block>
-  <block id="3d92225d2ee8c33ffe2c15361da54d2f" category="list-text"><block ref="3d92225d2ee8c33ffe2c15361da54d2f" category="inline-link-macro-rx"></block></block>
   <block id="b07d4a5fc9bdc2d9e09fffa5409bbab4" category="inline-link-macro">Add-on-Funktionen</block>
   <block id="d9c3b504b15a55277f52a60d4aa86148" category="list-text"><block ref="d9c3b504b15a55277f52a60d4aa86148" category="inline-link-macro-rx"></block></block>
   <block id="919e659946b3b7994ecf9004d9cea4f8" category="inline-link-macro">Laufwerkssicherheit</block>
@@ -8764,4 +8761,5 @@ Im Abschnitt Hardware wird auch die Sicherheitsschlüsselkennung angezeigt, wenn
   <block id="3089984c7abf64387bdc035943beae57" category="sidebar">Einrichtung von SANtricity System Manager</block>
   <block id="61ed698df3699989d8d782fe430d2755" category="sidebar">Einrichtung von SANtricity Unified Manager</block>
   <block id="aaf551c2d815af2da13ad25c18d2670e" category="sidebar">Starten Sie den SANtricity System Manager</block>
+  <block id="bc7dec44af17b73eb800d426c3a75c9f" category="list-text"><block ref="bc7dec44af17b73eb800d426c3a75c9f" category="inline-link-macro-rx"></block></block>
 </blocks>
